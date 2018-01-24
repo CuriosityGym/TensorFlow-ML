@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/38896424/tensorflow-not-found-in-pip
+install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl
+
+https://stackoverflow.com/questions/42011070/on-windows-running-import-tensorflow-generates-no-module-named-pywrap-tenso
